@@ -1,6 +1,6 @@
 # Glossary
 
-This repository holds the translation glossary used across projects, and is used at https://translate.buape.com
+This repository holds the translation glossary used across projects, and is used at [https://translate.buape.com](https://translate.buape.com/projects/glossary/glossary/)
 
 We have this to standardize translations for terms across strings for common phrases, as well as listing "translations" for phrases and terms that should not be translated, such as branding.
 
