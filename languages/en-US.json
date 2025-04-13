@@ -2,6 +2,13 @@
     "buapeStudios": "Buape Studios",
     "buape": "Buape",
     "kiai": "Kiai",
+    "pluralkit": "PluralKit",
+    "tupperbox": "PluralKit",
     "xp": "XP",
-    "bot": "bot"
+    "bot": "bot",
+    "denylist": "denylist",
+    "guild": "guild",
+    "leaderboard": "leaderboard",
+    "role": "role",
+    "server": "server"
 }
