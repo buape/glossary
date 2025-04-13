@@ -1,14 +1,14 @@
 {
-    "buapeStudios": "Buape Studios",
-    "buape": "Buape",
-    "kiai": "Kiai",
-    "pluralkit": "PluralKit",
-    "tupperbox": "PluralKit",
-    "xp": "XP",
-    "bot": "bot",
-    "denylist": "denylist",
-    "guild": "guild",
-    "leaderboard": "leaderboard",
-    "role": "role",
-    "server": "server"
+				"buapeStudios": "Buape Studios",
+				"buape": "Buape",
+				"kiai": "Kiai",
+				"pluralkit": "PluralKit",
+				"tupperbox": "Tupperbox",
+				"xp": "XP",
+				"bot": "bot",
+				"denylist": "denylist",
+				"guild": "guild",
+				"leaderboard": "leaderboard",
+				"role": "role",
+				"server": "server"
 }
