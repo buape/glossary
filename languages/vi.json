@@ -1,5 +1,13 @@
 {
-	"buapeStudios": "Buape Studios",
-	"buape": "Buape",
-	"kiai": "Kiai"
+				"buapeStudios": "Buape Studios",
+				"buape": "Buape",
+				"kiai": "Kiai",
+				"bot": "bot",
+				"server": "máy chủ",
+				"leaderboard": "bảng xếp hạng",
+				"role": "Vai trò",
+				"xp": "XP",
+				"guild": "Máy chủ",
+				"tupperbox": "Tupperbox",
+				"denylist": "Danh sách từ chối"
 }
