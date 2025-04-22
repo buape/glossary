@@ -1,5 +1,13 @@
 {
-	"buapeStudios": "Buape Studios",
-	"buape": "Buape",
-	"kiai": "Kiai"
+				"buapeStudios": "Buape Studios",
+				"buape": "Buape",
+				"kiai": "Kiai",
+				"bot": "bot",
+				"server": "server",
+				"leaderboard": "classifica",
+				"denylist": "listanera",
+				"guild": "guild",
+				"xp": "XP",
+				"tupperbox": "Tupperbox",
+				"role": "ruolo"
 }
