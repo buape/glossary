@@ -8,5 +8,7 @@
 				"leaderboard": "classificação",
 				"denylist": "lista de negação",
 				"guild": "servidor",
-				"role": "cargo"
+				"role": "cargo",
+				"ping": "ping",
+				"shard": "shard"
 }
