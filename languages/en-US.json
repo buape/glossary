@@ -10,5 +10,7 @@
 				"guild": "guild",
 				"leaderboard": "leaderboard",
 				"role": "role",
-				"server": "server"
+				"server": "server",
+				"shard": "shard",
+				"ping": "ping"
 }
