@@ -9,5 +9,7 @@
 				"guild": "guild",
 				"xp": "XP",
 				"role": "rol",
-				"tupperbox": "Tupperbox"
+				"tupperbox": "Tupperbox",
+				"ping": "ping",
+				"shard": "shard"
 }
